@@ -22,7 +22,7 @@ It would be very nice to get more developers on board, and become a team. If you
 - Use `node-red-contrib-power-saver`
 - Want to collaborate on further development
 
-Please contact me, for example by making a [GitHub issue(https://github.com/ottopaulsen/node-red-contrib-power-saver/issues)] explaining what you would like to do.
+Please contact me, for example by making a [GitHub issue](https://github.com/ottopaulsen/node-red-contrib-power-saver/issues) explaining what you would like to do.
 
 The first and most important task now, is to make support for getting grid tariff from all suppliers.
 
